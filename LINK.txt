@@ -1,0 +1,6 @@
+LINK: https://archive.ics.uci.edu/dataset/383/cervical+cancer+risk+factors
+QTD REGISTRO: 858
+VARIAVEIS TARGET: Hinselmann, Schiller, Citology e Biopsy 
+VALORES TARGET: 
+
+PONTOS NEGATIVOS: Muitas células zeradas
