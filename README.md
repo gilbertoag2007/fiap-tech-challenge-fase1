@@ -37,10 +37,7 @@ Projeto de **Machine Learning supervisionado** aplicado à **detecção de cânc
 ├── TECH_CHALLENGE.ipynb              # Notebook principal (pipeline completo)
 ├── kag_risk_factors_cervical_cancer.csv  # Dataset
 ├── requirements.txt                  # Dependências Python
-├── relatorio.tex                     # Relatório técnico (LaTeX, para Overleaf)
-├── figs/                             # Figuras geradas (boxplot, heatmap, ROC...)
 ├── LINK.txt                          # Link original do dataset (UCI)
-├── PDF_TO_TXT.txt                    # Instruções do challenge (texto extraído)
 └── README.md                         # Este arquivo
 ```
 
