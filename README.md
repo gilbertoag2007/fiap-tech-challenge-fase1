@@ -2,7 +2,7 @@
 
 Projeto de **Machine Learning supervisionado** aplicado à **detecção de câncer do colo do útero** a partir de fatores de risco clínicos. Desenvolve um classificador binário capaz de apoiar a triagem oncológica, indicando pacientes com maior probabilidade de biópsia positiva.
 
-> ⚠️ **Aviso clínico:** este é um trabalho acadêmico. O modelo é uma **ferramenta de apoio** e **não substitui** a avaliação médica. A palavra final no diagnóstico é sempre do(a) profissional de saúde.
+> **Aviso clínico:** este é um trabalho acadêmico. O modelo é uma **ferramenta de apoio** e **não substitui** a avaliação médica. A palavra final no diagnóstico é sempre do(a) profissional de saúde.
 
 ---
 
