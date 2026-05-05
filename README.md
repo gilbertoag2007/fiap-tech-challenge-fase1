@@ -17,6 +17,7 @@ Projeto de **Machine Learning supervisionado** aplicado à **detecção de cânc
 - [Pipeline do notebook](#pipeline-do-notebook)
 - [Resultados](#resultados)
 - [Relatório técnico](#relatório-técnico)
+- [Vídeo de apresentação](#vídeo-de-apresentação)
 - [Equipe](#equipe)
 
 ---
@@ -38,6 +39,7 @@ Projeto de **Machine Learning supervisionado** aplicado à **detecção de cânc
 ├── kag_risk_factors_cervical_cancer.csv  # Dataset
 ├── requirements.txt                  # Dependências Python
 ├── LINK.txt                          # Link original do dataset (UCI)
+├── Tech_challenger_1.pdf             # Relatório técnico (documentação completa em PDF)
 └── README.md                         # Este arquivo
 ```
 
@@ -149,6 +151,28 @@ O notebook está organizado nas seguintes etapas:
 
 ---
 
+## Relatório técnico
+
+A documentação completa do projeto — incluindo fundamentação teórica, metodologia detalhada, análise dos resultados e conclusões — está disponível no PDF abaixo:
+
+- [`Tech_challenger_1.pdf`](./Tech_challenger_1.pdf)
+
+---
+
+## Vídeo de apresentação
+
+Apresentação em vídeo do projeto, com a explicação do problema, da abordagem adotada e dos resultados obtidos:
+
+- YouTube: <https://youtu.be/61_HNWEkjRI>
+
+---
+
 ## Equipe
 
 **Grupo 88** — FIAP Pós-Tech em IA para Devs (Fase 1).
+**Participantes**:
+Gilberto Cunha - RM 372315
+Gustavo Denobi - RM 373072
+Thiago Garbulha - RM 372499
+Victor Arruda - RM 373454
+
