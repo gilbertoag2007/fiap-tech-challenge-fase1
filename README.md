@@ -170,9 +170,11 @@ Apresentação em vídeo do projeto, com a explicação do problema, da abordage
 ## Equipe
 
 **Grupo 88** — FIAP Pós-Tech em IA para Devs (Fase 1).
+
 **Participantes**:
-Gilberto Cunha - RM 372315
-Gustavo Denobi - RM 373072
-Thiago Garbulha - RM 372499
-Victor Arruda - RM 373454
+
+- Gilberto Cunha - RM 372315
+- Gustavo Denobi - RM 373072
+- Thiago Garbulha - RM 372499
+- Victor Arruda - RM 373454
 
